@@ -39,10 +39,18 @@
     {
       "class": "text",
       "id": "EF1ACA0D-6E6E-4111-B4B9-B73A168B2BBB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C11297C0-8779-4019-A9F4-A3E2B5550E83"
+    },
+    {
+      "class": "text",
+      "id": "23D67EC4-6C58-4693-8207-59379E7AC986"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "Botones",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
